@@ -1,3 +1,3 @@
-# AgriSage-AI-
+# AgriSage AI
 Risk-Adjusted Agricultural Intelligence
 
